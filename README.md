@@ -1,9 +1,2 @@
-# React TypeScript Starter Pack
-
-To use this template click `Use this template`
-
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+A user-friendly and responsive task management app built following industry best practices. This React-based To-Do App integrates with a REST API to allow for adding, deleting, toggling, and renaming tasks, complete with authorization features. Emphasizes performance and accessibility. Technologies utilized: React, TypeScript, JavaScript, HTML5, CSS3, REST API.A user-friendly and responsive task management app built following industry best practices. This React-based To-Do App integrates with a REST API to allow for adding, deleting, toggling, and renaming tasks, complete with authorization features. Emphasizes performance and accessibility. Technologies utilized: React, TypeScript, JavaScript, HTML5, CSS3, REST API.
+- [DEMO LINK](https://tetianaveremchuk.github.io/Task-management-application/)
